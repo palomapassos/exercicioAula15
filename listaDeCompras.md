@@ -1,11 +1,7 @@
-farinha de trigo
+Fatia de torta
 
-açúcar
+Bolo de pote
 
-ovos
+Donuts
 
-leite
-
-margarina
-
-fermento químico
+Docinhos
